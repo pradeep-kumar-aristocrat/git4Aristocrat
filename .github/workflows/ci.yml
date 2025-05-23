@@ -1,3 +1,5 @@
+name: Test Workflow for CI
+
 on:
   push:
     branches: [main]
